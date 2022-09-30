@@ -1,0 +1,123 @@
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\appsettings.json
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.exe
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.deps.json
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.runtimeconfig.json
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.pdb
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Humanizer.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.csproj.AssemblyReference.cache
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.AssemblyInfoInputs.cache
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.AssemblyInfo.cs
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.csproj.CoreCompileInputs.cache
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\scopedcss\bundle\AppointmentScheduler.API.styles.css
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.csproj.CopyComplete
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\refint\AppointmentScheduler.API.dll
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.pdb
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.genruntimeconfig.cache
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.API\obj\Debug\net6.0\ref\AppointmentScheduler.API.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\appsettings.json
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\package-lock.json
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.exe
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.deps.json
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.runtimeconfig.json
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\AppointmentScheduler.API.pdb
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Humanizer.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.csproj.AssemblyReference.cache
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.AssemblyInfoInputs.cache
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.AssemblyInfo.cs
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.csproj.CoreCompileInputs.cache
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\scopedcss\bundle\AppointmentScheduler.API.styles.css
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.csproj.CopyComplete
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\refint\AppointmentScheduler.API.dll
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.pdb
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\AppointmentScheduler.API.genruntimeconfig.cache
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.API\obj\Debug\net6.0\ref\AppointmentScheduler.API.dll

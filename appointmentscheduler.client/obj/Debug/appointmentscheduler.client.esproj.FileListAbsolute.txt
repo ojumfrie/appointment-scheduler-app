@@ -1,0 +1,4 @@
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.Client\obj\Debug\appointmentscheduler.client.esproj.SuggestedBindingRedirects.cache
+C:\PROJECTS\VS\AppointmentScheduler\AppointmentScheduler.Client\obj\Debug\appointmentscheduler.client.esproj.CoreCompileInputs.cache
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.Client\obj\Debug\appointmentscheduler.client.esproj.SuggestedBindingRedirects.cache
+C:\PROJECTS\VS\FOR SUBMISSION TO SOURCEFIT V2\appointmentscheduler\AppointmentScheduler.Client\obj\Debug\appointmentscheduler.client.esproj.CoreCompileInputs.cache
